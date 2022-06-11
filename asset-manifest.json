@@ -1,13 +1,13 @@
 {
-  "main.css": "/aashu015/Reactjs.git/static/css/main.970624b9.chunk.css",
-  "main.js": "/aashu015/Reactjs.git/static/js/main.4b38d13d.chunk.js",
-  "main.js.map": "/aashu015/Reactjs.git/static/js/main.4b38d13d.chunk.js.map",
-  "static/js/1.17d417ca.chunk.js": "/aashu015/Reactjs.git/static/js/1.17d417ca.chunk.js",
-  "static/js/1.17d417ca.chunk.js.map": "/aashu015/Reactjs.git/static/js/1.17d417ca.chunk.js.map",
-  "runtime~main.js": "/aashu015/Reactjs.git/static/js/runtime~main.f788d223.js",
-  "runtime~main.js.map": "/aashu015/Reactjs.git/static/js/runtime~main.f788d223.js.map",
-  "static/css/main.970624b9.chunk.css.map": "/aashu015/Reactjs.git/static/css/main.970624b9.chunk.css.map",
-  "index.html": "/aashu015/Reactjs.git/index.html",
-  "precache-manifest.7405244467abd423c4b2c6fd228903cd.js": "/aashu015/Reactjs.git/precache-manifest.7405244467abd423c4b2c6fd228903cd.js",
-  "service-worker.js": "/aashu015/Reactjs.git/service-worker.js"
+  "files": {
+    "main.css": "/aashu015/Reactjs.git/static/css/main.e30c9458.css",
+    "main.js": "/aashu015/Reactjs.git/static/js/main.28a46208.js",
+    "index.html": "/aashu015/Reactjs.git/index.html",
+    "main.e30c9458.css.map": "/aashu015/Reactjs.git/static/css/main.e30c9458.css.map",
+    "main.28a46208.js.map": "/aashu015/Reactjs.git/static/js/main.28a46208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e30c9458.css",
+    "static/js/main.28a46208.js"
+  ]
 }
