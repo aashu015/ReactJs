@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/aashu015/ReactJs.git/static/css/main.e30c9458.css",
-    "main.js": "/aashu015/ReactJs.git/static/js/main.6f6716ef.js",
-    "index.html": "/aashu015/ReactJs.git/index.html",
-    "main.e30c9458.css.map": "/aashu015/ReactJs.git/static/css/main.e30c9458.css.map",
-    "main.6f6716ef.js.map": "/aashu015/ReactJs.git/static/js/main.6f6716ef.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.e30c9458.css",
-    "static/js/main.6f6716ef.js"
-  ]
+  "main.css": "/aashu015/Reactjs.git/static/css/main.970624b9.chunk.css",
+  "main.js": "/aashu015/Reactjs.git/static/js/main.a20a8600.chunk.js",
+  "main.js.map": "/aashu015/Reactjs.git/static/js/main.a20a8600.chunk.js.map",
+  "static/js/1.17d417ca.chunk.js": "/aashu015/Reactjs.git/static/js/1.17d417ca.chunk.js",
+  "static/js/1.17d417ca.chunk.js.map": "/aashu015/Reactjs.git/static/js/1.17d417ca.chunk.js.map",
+  "runtime~main.js": "/aashu015/Reactjs.git/static/js/runtime~main.f788d223.js",
+  "runtime~main.js.map": "/aashu015/Reactjs.git/static/js/runtime~main.f788d223.js.map",
+  "static/css/main.970624b9.chunk.css.map": "/aashu015/Reactjs.git/static/css/main.970624b9.chunk.css.map",
+  "index.html": "/aashu015/Reactjs.git/index.html",
+  "precache-manifest.7ac2edb3948783279881d10df6513c5c.js": "/aashu015/Reactjs.git/precache-manifest.7ac2edb3948783279881d10df6513c5c.js",
+  "service-worker.js": "/aashu015/Reactjs.git/service-worker.js"
 }
